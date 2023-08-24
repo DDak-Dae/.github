@@ -4,7 +4,9 @@
 </p>
 <p align="center">
    1시간 걸리는 작업을 1분 만에 끝낼 수 있도록 도와주는 웹 서비스
-  Link:https://youtu.be/6h0SfTX4uwk
+</p>
+<p>
+    Link:https://youtu.be/6h0SfTX4uwk
 </p>
 
 * * *
