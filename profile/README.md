@@ -7,7 +7,8 @@
 </p>
 
 
-![Alt text](image-3.png)
+<!-- ![Alt text](./images/image-3.png) -->
+![Alt text](images/image-3.png)
 
 <p align="center">
     서비스 소개 영상 : https://youtu.be/6h0SfTX4uwk
