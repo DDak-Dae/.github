@@ -9,7 +9,7 @@
 
 <!-- ![Alt text](./images/image-3.png) -->
 <p align="center">
-<img width="668" alt="image-3" src="https://github.com/DDak-Dae/.github/assets/99469068/abbe3c12-a16c-4cf9-87ca-3910a20ae6a2">
+  <img width="668" alt="image-3" src="https://github.com/DDak-Dae/.github/assets/99469068/abbe3c12-a16c-4cf9-87ca-3910a20ae6a2">
 </p>
 
 
@@ -28,8 +28,8 @@
 ## 문제 및 개선
 ### 데이터 저장 방식
 
-  <p align="center">
-    <img width="556" alt="image-5" src="https://github.com/DDak-Dae/.github/assets/99469068/352d1a9b-1db2-484f-9904-9deaaf967982">
+<p align="center">
+  <img width="556" alt="image-5" src="https://github.com/DDak-Dae/.github/assets/99469068/352d1a9b-1db2-484f-9904-9deaaf967982">
 </p>
 <p align="center">
 DB에서 검색 속도 향상을 위해 Chroma DB를 사용하였습니다.</br>
