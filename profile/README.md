@@ -15,7 +15,11 @@
 </p>
 
 ## 팀원
-![Alt text](image-1.png)
+<p align="center">
+  <img width="690" alt="image-1" src="https://github.com/DDak-Dae/.github/assets/99469068/6b6d35e7-ea6a-4dd5-981d-c676c93f7e41">
+</p>
+
+
 
 ## 문제 및 개선
 ### 데이터 저장 방식
